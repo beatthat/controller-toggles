@@ -1,7 +1,7 @@
 {
   "name": "controller-toggles",
   "scope": "beatthat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "wrap a toggle in a controller, usually as a means to resuse a toggle prefab around your app",
   "main": "index.js",
   "scripts": {
